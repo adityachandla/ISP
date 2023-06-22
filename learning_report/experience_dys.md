@@ -1,7 +1,9 @@
 # HestiaCare (dysfunctional)
 The first few weeks and months of this course led to a team environment that I was unhappy and dissatisfied with. This was the case for the majority of people in the team. This page outlines why did this happen and the changes I made to my personal approach to make sure that it does not happen again. 
 
-![End of first quartile](./exp_1.jpg)
+<p align="center">
+    <img src="./exp_1.jpg">
+</p>
 
 ## Reasons
 There were a number of reasons why I think we ended up in a rut:
