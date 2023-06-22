@@ -1,4 +1,8 @@
 # HestiaCare (Amazing team)
+<p align="center">
+    <img src="./exp_2.jpg">
+</p>
+
 Even though we resolved our conflicts during the first quarter and were more cohesive as a team, I learned different kinds of things in life. While the first quarter focused on ensuring the team worked, the second quarter was more focused on optimizing and streamlining the processes within our team. Thankfully, we had a person from industrial design on our team to come help with that.
 
 ## Learnings (or "Things Anne-linde taught me")

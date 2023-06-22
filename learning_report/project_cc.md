@@ -1,4 +1,7 @@
 # Convince-Coin
+<p align="center">
+    <img src="./cc.jpg">
+</p>
 In the most fundamental sense, what does the blockchain technology enable us to do? Behind all the complexities of ditributed systems and complex mathematical equations, the main aim of a blockchain is to remove single authority. Every action that is performed in the blockchain needs to be verified by other nodes/computers in the system. This type of concensus is sometimes called Proof of Stake. It is only once a "proof of stake" has been achieved that you can consider you action to be complete.
 
 ## Learnings
